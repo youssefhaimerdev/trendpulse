@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Dark background -->
+  <rect width="32" height="32" rx="6" fill="#05080F"/>
+  <!-- Top accent line (brand gradient) -->
+  <rect width="32" height="2.5" rx="1" fill="url(#g)"/>
+  <!-- Pulse / EKG waveform -->
+  <polyline
+    points="2,18 7,18 10,9 13,26 16,13 19,21 22,18 30,18"
+    fill="none"
+    stroke="#0CF2A0"
+    stroke-width="2.4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="32" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#0CF2A0"/>
+      <stop offset="50%"  stop-color="#4A9EFF"/>
+      <stop offset="100%" stop-color="#FF3355"/>
+    </linearGradient>
+  </defs>
+</svg>
