@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>Page Not Found — TrendPulse</title>
+  <meta name="robots" content="noindex"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,700;0,800;0,900;1,700;1,800;1,900&family=Outfit:wght@400;500;600&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="/assets/css/style.css"/>
+  <style>
+    .topline{height:3px;background:linear-gradient(90deg,#0CF2A0 0%,#4A9EFF 35%,#FF3355 70%,#FFB830 100%);}
+    .e404{min-height:70vh;display:flex;align-items:center;justify-content:center;text-align:center;padding:4rem var(--gap);}
+    .e404-num{font-family:var(--FH);font-size:clamp(6rem,15vw,12rem);font-weight:900;font-style:italic;line-height:1;color:var(--muted);letter-spacing:-.04em;margin-bottom:1rem;}
+    .e404-num span{color:var(--teal);}
+    .e404-title{font-family:var(--FH);font-size:clamp(1.5rem,3vw,2.5rem);font-weight:900;font-style:italic;margin-bottom:.75rem;}
+    .e404-sub{font-size:.9rem;color:var(--text2);margin-bottom:2.5rem;line-height:1.75;max-width:420px;margin-left:auto;margin-right:auto;}
+    .e404-links{display:flex;gap:.75rem;justify-content:center;flex-wrap:wrap;}
+    .e404-link{font-family:var(--FM);font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:.65rem 1.4rem;border:1px solid var(--bdr);color:var(--text2);transition:all .2s;}
+    .e404-link:hover,.e404-link.primary{border-color:var(--tealb);color:var(--teal);}
+    .e404-link.primary{background:var(--teald);}
+  </style>
+</head>
+<body>
+<div class="topline"></div>
+<header class="nav">
+  <div class="container nav-inner">
+    <a href="/" class="nav-logo">Trend<span>Pulse</span></a>
+    <nav class="nav-links">
+      <a href="/category/sports">Sports</a>
+      <a href="/category/entertainment">Entertainment</a>
+      <a href="/category/politics">Politics</a>
+      <a href="/category/tech">Tech</a>
+    </nav>
+  </div>
+</header>
+
+<div class="e404">
+  <div>
+    <div class="e404-num">4<span>0</span>4</div>
+    <h1 class="e404-title">This story doesn't exist.</h1>
+    <p class="e404-sub">The page you're looking for has moved, been deleted, or never existed. But whatever you're searching for — we've probably covered it.</p>
+    <div class="e404-links">
+      <a href="/" class="e404-link primary">← Back to homepage</a>
+      <a href="/category/sports" class="e404-link">Sports</a>
+      <a href="/category/entertainment" class="e404-link">Entertainment</a>
+      <a href="/category/tech" class="e404-link">Tech</a>
+    </div>
+  </div>
+</div>
+
+<script src="/assets/js/main.js"></script>
+</body>
+</html>
