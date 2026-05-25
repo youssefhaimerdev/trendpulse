@@ -1,13 +1,63 @@
 [
   {
+    "id": 14,
+    "slug": "survivor-50-winner-aubry-bracco-finale-2026",
+    "title": "Who Won Survivor 50? Aubry Bracco Wins — Jeff Probst's Live Spoiler & Full Finale Recap",
+    "excerpt": "Aubry Bracco won the $2 million prize in a landslide 8–3 jury vote. But the night will be remembered as much for Jeff Probst accidentally spoiling the result live on national television.",
+    "category": "Entertainment", "categoryClass": "b-ent",
+    "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=800&q=80",
+    "date": "May 21, 2026", "dateISO": "2026-05-21T03:00:00Z",
+    "readTime": "5 min", "trending": "200K+", "views": "74,218", "featured": true
+  },
+  {
+    "id": 15,
+    "slug": "caitlin-clark-injury-fever-vs-portland-fire-2026",
+    "title": "Caitlin Clark Injury: Why She Didn't Play vs Portland Fire and When She'll Be Back",
+    "excerpt": "Clark was a late scratch with back soreness. The Fever won 90–73 without her. Here's how serious it is, what the coach said, and whether she plays Friday.",
+    "category": "Sports", "categoryClass": "b-sports",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=800&q=80",
+    "date": "May 21, 2026", "dateISO": "2026-05-21T02:00:00Z",
+    "readTime": "4 min", "trending": "100K+", "views": "41,330"
+  },
+  {
+    "id": 16,
+    "slug": "vanessa-trump-breast-cancer-diagnosis-2026",
+    "title": "Vanessa Trump Reveals Breast Cancer Diagnosis: Tiger Woods' Girlfriend & Kai Trump's Mom",
+    "excerpt": "Vanessa Trump announced her breast cancer diagnosis on Instagram on May 20. Kai Trump and Ivanka Trump responded publicly. Here is everything she shared and what we know.",
+    "category": "Entertainment", "categoryClass": "b-ent",
+    "image": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=800&q=80",
+    "date": "May 21, 2026", "dateISO": "2026-05-21T01:00:00Z",
+    "readTime": "4 min", "trending": "50K+", "views": "28,441"
+  },
+  {
+    "id": 17,
+    "slug": "presidential-records-act-ruling-2026",
+    "title": "Presidential Records Act Ruling: Judge Orders White House to Comply After DOJ Called It Unconstitutional",
+    "excerpt": "Federal Judge John Bates issued a preliminary injunction requiring White House staff, the NSC, and DOGE to preserve all official records. The order takes effect May 26.",
+    "category": "Politics", "categoryClass": "b-politics",
+    "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=800&q=80",
+    "date": "May 21, 2026", "dateISO": "2026-05-21T00:00:00Z",
+    "readTime": "4 min", "trending": "100K+", "views": "33,107"
+  },
+  {
+    "id": 18,
+    "slug": "dylan-harper-injury-spurs-deaaron-fox-wcf-2026",
+    "title": "Dylan Harper Hamstring Injury: Spurs Lose Rookie Star in Game 2 as Fox Also Sits Out WCF",
+    "excerpt": "Harper left Game 2 vs Oklahoma City in Q3 with a right hamstring strain. De'Aaron Fox missed his second straight game. MRI Thursday. Game 3 Friday — here's what we know.",
+    "category": "Sports", "categoryClass": "b-sports",
+    "image": "https://images.unsplash.com/photo-1546519638405-a2526cc7d0f4?auto=format&fit=crop&w=800&q=80",
+    "date": "May 21, 2026", "dateISO": "2026-05-21T04:00:00Z",
+    "readTime": "4 min", "trending": "50K+", "views": "29,884"
+  },
+  {
     "id": 11,
     "slug": "knicks-cavaliers-game-1-ecf-2026",
     "title": "Knicks vs Cavaliers Game 1: Brunson's 38 Points Fuel Historic 22-Point Comeback Win in OT",
-    "excerpt": "New York erased a 22-point fourth-quarter deficit as Jalen Brunson poured in 38 points, completing one of the greatest comebacks in NBA playoff history with a 115-104 OT win.",
+    "excerpt": "New York erased a 22-point fourth-quarter deficit as Jalen Brunson poured in 38 points, completing one of the greatest comebacks in NBA playoff history.",
     "category": "Sports", "categoryClass": "b-sports",
     "image": "https://images.unsplash.com/photo-1546519638405-a2526cc7d0f4?auto=format&fit=crop&w=800&q=80",
     "date": "May 20, 2026", "dateISO": "2026-05-20T08:00:00Z",
-    "readTime": "5 min", "trending": "1M+", "views": "91,447", "featured": true
+    "readTime": "5 min", "trending": "1M+", "views": "91,447"
   },
   {
     "id": 12,
@@ -23,7 +73,7 @@
     "id": 13,
     "slug": "jason-kidd-fired-dallas-mavericks-2026",
     "title": "Jason Kidd Fired by the Dallas Mavericks: Why It Happened and Who Coaches Cooper Flagg Next",
-    "excerpt": "New president Masai Ujiri parted ways with Kidd on May 19 with 4 years and $40M left on his contract. The full story behind the split and the Luka Doncic trade shadow that never left.",
+    "excerpt": "New president Masai Ujiri parted ways with Kidd with 4 years and $40M left on his contract. The full story behind the split.",
     "category": "Sports", "categoryClass": "b-sports",
     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=800&q=80",
     "date": "May 20, 2026", "dateISO": "2026-05-20T06:00:00Z",
@@ -33,7 +83,7 @@
     "id": 1,
     "slug": "aaron-rai-pga-championship-2026",
     "title": "Who Is Aaron Rai? The Quiet Brit Who Just Won the 2026 PGA Championship",
-    "excerpt": "British golfer Aaron Rai stunned the golf world at Aronimink Golf Club. Wife, career, net worth, and the two-glove quirk — all answered.",
+    "excerpt": "British golfer Aaron Rai stunned the golf world at Aronimink. Wife, career, net worth, and the two-glove quirk — all answered.",
     "category": "Sports", "categoryClass": "b-sports",
     "image": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=800&q=80",
     "date": "May 18, 2026", "dateISO": "2026-05-18T19:00:00Z",
@@ -43,7 +93,7 @@
     "id": 2,
     "slug": "acm-awards-2026-winners-full-list",
     "title": "ACM Awards 2026: Full List of Winners and Biggest Moments",
-    "excerpt": "Country music's biggest night delivered surprises. Here is every winner from the 2026 Academy of Country Music Awards.",
+    "excerpt": "Morgan Wallen, Lainey Wilson, Chris Stapleton — every winner from country music's biggest night.",
     "category": "Entertainment", "categoryClass": "b-ent",
     "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80",
     "date": "May 18, 2026", "dateISO": "2026-05-18T22:00:00Z",
@@ -52,28 +102,18 @@
   {
     "id": 3,
     "slug": "sam-merrill-cavs-pistons-game-7",
-    "title": "Sam Merrill Erupts in Game 7: Cavs Eliminate Pistons in Instant Classic",
-    "excerpt": "The Cleveland Cavaliers guard put on a performance for the ages in Game 7. Full stats, timeline and reaction.",
+    "title": "Sam Merrill Game 7: 29 Points on 13-of-17 Shooting as Cavs Eliminate the Pistons",
+    "excerpt": "The reserve guard put on a shooting clinic in Game 7 as Cleveland advanced. Full stats, highlights, and what it means.",
     "category": "Sports", "categoryClass": "b-sports",
     "image": "https://images.unsplash.com/photo-1546519638405-a2526cc7d0f4?auto=format&fit=crop&w=800&q=80",
     "date": "May 18, 2026", "dateISO": "2026-05-18T23:30:00Z",
     "readTime": "4 min", "trending": "1M+", "views": "91,447"
   },
   {
-    "id": 5,
-    "slug": "austin-texas-shooting-shelter-in-place",
-    "title": "Austin Shooting: Shelter in Place Lifted — What We Know Right Now",
-    "excerpt": "Authorities lifted the shelter-in-place order in parts of Austin following a shooting incident that prompted widespread alerts.",
-    "category": "News", "categoryClass": "b-break",
-    "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=800&q=80",
-    "date": "May 18, 2026", "dateISO": "2026-05-18T16:00:00Z",
-    "readTime": "3 min", "trending": "100K+", "views": "29,882"
-  },
-  {
     "id": 6,
     "slug": "gta-6-release-date-preorder-everything-we-know",
-    "title": "GTA 6: Release Date, Pre-Order Details and Everything Confirmed",
-    "excerpt": "Rockstar Games has finally moved on GTA 6. Every confirmed detail in one place.",
+    "title": "GTA 6: Release Date, Pre-Order Details and Everything Rockstar Has Confirmed",
+    "excerpt": "May 26, 2026 on PS5 and Xbox. $69.99. Lucia and Jason in Vice City. Every confirmed detail in one place.",
     "category": "Tech", "categoryClass": "b-tech",
     "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
     "date": "May 18, 2026", "dateISO": "2026-05-18T14:00:00Z",
