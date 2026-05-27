@@ -236,6 +236,7 @@ function initCounters() {
 
 // ── Lazy image loader ─────────────────────────────────────
 function initImages() {
+  // Set directly — no async wait, browser handles load/error natively
   document.querySelectorAll('[data-bg]').forEach(el => {
     const img = new Image();
     img.onload = () => el.style.backgroundImage = `url('${el.dataset.bg}')`;
