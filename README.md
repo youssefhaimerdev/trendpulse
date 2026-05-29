@@ -1,4 +1,4 @@
-# TrendPulse — Deployment & Publishing Guide
+# Daily Pulse — Deployment & Publishing Guide
 
 ## Stack
 - Pure HTML / CSS / JS — no build step, no framework
@@ -19,7 +19,7 @@
 ```bash
 git init
 git add .
-git commit -m "Initial TrendPulse launch"
+git commit -m "Initial Daily Pulse launch"
 git branch -M main
 git remote add origin https://github.com/YOUR_USERNAME/trendpulse.git
 git push -u origin main
@@ -40,7 +40,7 @@ Your site is live. Every push to `main` auto-redeploys in ~30 seconds.
 
 ## Custom Domain
 1. In Vercel → Project → Settings → Domains
-2. Add your domain (e.g. `trendpulse.news`)
+2. Add your domain (e.g. `dailypulse.news`)
 3. Update your domain's DNS with the records Vercel gives you
 4. SSL is automatic
 
@@ -75,10 +75,10 @@ That's it. No zip files. No FTP. No build process.
 
 ### Google Search Console
 1. Go to search.google.com/search-console
-2. Add property → URL prefix → `https://trendpulse.news`
+2. Add property → URL prefix → `https://dailypulse.news`
 3. Verify via HTML tag → copy the `content` value
 4. In `index.html` AND `articles/*.html`, replace `PASTE_YOUR_GSC_VERIFICATION_CODE_HERE`
-5. Submit sitemap: `https://trendpulse.news/sitemap.xml`
+5. Submit sitemap: `https://dailypulse.news/sitemap.xml`
 
 ### Google AdSense
 1. Apply at adsense.google.com (need some content live first)
