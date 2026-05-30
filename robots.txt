@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://trendpulse-three-blond.vercel.app/sitemap.xml
+Sitemap: https://dailypulse-opal.vercel.app/sitemap.xml
